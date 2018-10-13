@@ -17,7 +17,7 @@
     <a class="navbar-brand" href="index.html">Folders list</a>
     <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-            <a class="nav-link active" href="#">GitHub</a>
+            <a class="nav-link active" href="https://github.com/jesusAG28/document-root-folder-reader">GitHub</a>
         </li>
         <li class="nav-item">
              <a class="nav-link" href="https://twitter.com/jesusayus">&#169; 2018 by Jesús Ayús</a>
