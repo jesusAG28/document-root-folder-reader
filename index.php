@@ -26,21 +26,6 @@
   </nav>
 
   <div class="container">
-        <!--
-        <nav class="navbar navbar-light bg-light justify-content-between mt-3">
-            <ul class="nav nav-pills">
-                <li class="nav-item">
-                    <a class="nav-link" href="#" id="orderName">Order by name</a>
-                </li>
-                <li class="nav-item ml-1">
-                    <a class="nav-link" href="#" id="showOpen">Show open</a>
-                </li>
-            </ul>
-            <form class="form-inline mb-0">
-                <input class="form-control mr-sm-2" type="text" id="search" placeholder="Search" aria-label="Search">
-            </form>
-        </nav>
-        -->
     <div id="foldersContainer" class="card-columns mt-4">
         <?= $content ?>      
     </div>
