@@ -51,7 +51,7 @@
                                 <img class='card-img-top' src='./server_files/folder.png'>
                                 <div class='card-body'>
                                     <h5 class='card-title'>$name</h5>
-                                    <a href='./$namehref'><button class='mt-2 btn btn-sm btn-danger btn-delete'>Go To</button></a>
+                                    <a href='./$namehref' target='_blank'><button class='mt-2 btn btn-sm btn-info'>Go To  <span class='fa fa-external-link'></span></button></a>
                                 </div>
                                 <div class='card-footer'>
                                     <small class='text-muted'>".
