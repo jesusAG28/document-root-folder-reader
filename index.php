@@ -16,7 +16,7 @@
         require __DIR__ . '/server_files/server.php';
     ?>
   <nav class="navbar navbar-expand navbar-dark bg-dark sticky-top">
-    <a class="navbar-brand" href="index.php">Folders list</a>
+    <a class="navbar-brand" href="./">Folders list</a>
     <ul class="navbar-nav mr-auto ">
         <li class="nav-item d-none d-md-block">
              <a class="nav-link active" href="https://github.com/jesusAG28/document-root-folder-reader/blob/master/LICENSE" > &#169; 2018 by Jesús Ayús </a>
