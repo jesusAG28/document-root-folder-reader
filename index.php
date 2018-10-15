@@ -16,16 +16,16 @@
         require __DIR__ . '/server_files/server.php';
     ?>
   <nav class="navbar navbar-expand navbar-dark bg-dark sticky-top">
-    <a class="navbar-brand" href="index.html">Folders list</a>
+    <a class="navbar-brand" href="index.php">Folders list</a>
     <ul class="navbar-nav mr-auto ">
         <li class="nav-item d-none d-md-block">
-             <a class="nav-link active" href="" > &#169; 2018 by Jesús Ayús </a>
+             <a class="nav-link active" href="https://github.com/jesusAG28/document-root-folder-reader/blob/master/LICENSE" > &#169; 2018 by Jesús Ayús </a>
         </li>
         <li class="nav-item d-none d-sm-block d-md-none">
-             <a class="nav-link active" href="" > &#169;J.Ayús </a>
+             <a class="nav-link active" href="https://github.com/jesusAG28/document-root-folder-reader/blob/master/LICENSE" > &#169;J.Ayús </a>
         </li>
         <li class="nav-item d-block d-sm-none">
-             <a class="nav-link active" href="" > &#169;J.A.</a>
+             <a class="nav-link active" href="https://github.com/jesusAG28/document-root-folder-reader/blob/master/LICENSE" > &#169;J.A.</a>
         </li>
 
         <!-- TWITTER -->
