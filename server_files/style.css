@@ -6,7 +6,7 @@
 
 @media (min-width: 320px) {
     .card-columns {
-        column-count: 1 !important;
+        column-count: 2 !important;
     }
 }
 
