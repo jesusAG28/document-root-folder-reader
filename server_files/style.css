@@ -6,7 +6,7 @@
 
 @media (min-width: 320px) {
     .card-columns {
-        column-count: 2 !important;
+        column-count: 1 !important;
     }
 }
 
@@ -26,4 +26,8 @@
     .card-columns {
         column-count: 6 !important;
     }
+}
+
+#content{
+    padding: 20px;
 }
