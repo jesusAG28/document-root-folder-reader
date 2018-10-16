@@ -48,7 +48,7 @@
                     if($name!=='server_files'){
                         $content=$content . "
                             <div class='card'>
-                                <img class='card-img-top' src='./server_files/folder.png'>
+                                <img class='card-img-top' src='./server_files/img/f".rand(1,5).".png'>
                                 <div class='card-body'>
                                     <h5 class='card-title'>$name</h5>
                                     <a href='./$namehref' target='_blank'><button class='btn btn-sm btn-info'>Go To  <span class='fa fa-external-link'></span></button></a>
