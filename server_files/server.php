@@ -55,16 +55,18 @@
 
                     if($name!=='server_files'){
                         $content=$content . "
-                            <div class='card'>
-                                <img class='card-img-top' src='".$images[rand(0,4)]."'>
-                                <div class='card-body'>
-                                    <h5 class='card-title'>$name</h5>
-                                    <a href='./$namehref' target='_blank'><button class='btn btn-sm btn-info'>Go To  <span class='fa fa-external-link'></span></button></a>
-                                </div>
-                                <div class='card-footer'>
-                                    <small class='text-muted'>".
-                                        $_SERVER["SERVER_NAME"]."/".$namehref
-                                    ."</small>
+                            <div class='col-12 col-sm-2 col-md-4 col-lg-2 col-xxl-1 pb-5'>
+                                <div class='card'>
+                                    <img class='card-img-top' src='".$images[rand(0,4)]."'>
+                                    <div class='card-body'>
+                                        <h5 class='card-title'>$name</h5>
+                                        <a href='./$namehref' target='_blank'><button class='btn btn-sm btn-info'>Go To  <span class='fa fa-external-link'></span></button></a>
+                                    </div>
+                                    <div class='card-footer'>
+                                        <small class='text-muted'>".
+                                            $_SERVER["SERVER_NAME"]."/".$namehref
+                                        ."</small>
+                                    </div>
                                 </div>
                             </div>
                         ";
